@@ -14,8 +14,9 @@ public class compareArrays {
                 if (array1[i] == array2[j]) list.add(array2[j]);
 
             }
+
         }
-        
+
 //        System.out.println(list);
 //        for (Object num: new HashSet<>(list) ) {
 //            System.out.println(num +" "+ Collections.frequency(list,num));
